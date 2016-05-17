@@ -1,0 +1,19 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+
+#controlContainer { width: 25%; height: 100%;float: left}
+#peopleContainer { width: 75%; height: 100%;float: left}
+
+#vol_up { width: 100%; height: 25%;float: top; 
+background-image: url("vol_up.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+#stop { width: 100%; height: 50%;float: top; background-size:cover; background-size: contain;background-position:center center; background-repeat:no-repeat; background-image:url('stop.png');}
+#vol_down { width: 100%; height: 25%;float: top; background-size:cover; background-size: contain;background-position:center center; background-repeat:no-repeat; background-image:url('vol_down.png');}
+
+#dave { width: 50%; height: 100%; float: left; background-size:cover; background-position:center center; background-repeat:no-repeat; background-image:url('dave.jpg');}
+#anna { width: 50%; height: 100%; float: left; background-size:cover; background-position:center center; background-repeat:no-repeat; background-image:url('anna.jpg');}
+
+
+
+ 
